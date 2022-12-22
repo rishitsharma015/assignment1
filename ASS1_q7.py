@@ -1,0 +1,6 @@
+a=int(25)
+b=int(25.0)
+c=int("25")
+result=str(a+b+c)
+print(result)
+print(type(result))
